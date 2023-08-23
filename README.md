@@ -6,7 +6,7 @@
 
  - [Mejores recetas de tahini](https://www.youtube.com/results?search_query=recetas+de+tahini) 
  - [Mejores recetas de Shawarma](https://www.youtube.com/results?search_query=recetas+de+shawarma)
- - [How to create a readme in github](https://www.youtube.com/results?search_query=how+to+create+a+git+repository+at+github)
+
 
 
 ## Appendix
